@@ -1,0 +1,16 @@
+{
+	auto_https off
+	admin off
+	persist_config off
+
+	servers {
+		trusted_proxies static 10.100.0.0/24
+	}
+}
+
+:8000 {
+	root * /opt/app/public
+	file_server
+	encode zstd gzip
+	header Cache-Control "public, max-age=300, must-revalidate"
+}
