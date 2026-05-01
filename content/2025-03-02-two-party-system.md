@@ -1,0 +1,24 @@
+---
+title: Challenging the two party system
+---
+The United States has a two-party system implemented through closed primaries, first-past-the-post voting, and the rules of the electoral college. Critics argue that it is unrepresentative, leads to polarization, and disenfranchises voters. Ironically, the writers of the Constitution were hostile to political parties (something both Hamilton and Madison agreed on: they respectively warned of ["the pestilential influence of party animosities"](https://guides.loc.gov/federalist-papers/text-31-40) and ["the mischiefs of faction"](https://guides.loc.gov/federalist-papers/text-1-10#s-lg-box-wrapper-25493273)).
+
+High-profile challenges to the status quo have focused on the presidency, with a recent example being the effort by No Labels to secure ballot access and recruit candidates for the 2024 US presidential elections. However, the presidency presents the greatest barriers for third-party candidates: unless a majority of electoral college votes go to one candidate, the decision falls to the House of Representatives. Most states ban faithless electors these days, so no coalition could emerge and a real three way race would end up decided by the House more often than not.
+
+The House seems a much better target for a third-party effort, and the current moment feels especially ripe for it. House races are cheaper and more responsive to local politics. With widespread dissatisfaction toward both major parties, persistent congressional gridlock, and razor-thin majorities in the House, even a small bloc of third-party representatives could wield significant influence as tiebreakers on contentious legislation.
+
+As far as I can tell, existing efforts focus on reforming election law to make the House more representative. Organizations such as [Unite America](https://www.uniteamerica.org/), Andrew Yang's [Forward Party](https://www.forwardparty.com/), and [Fix Our House](https://www.fixourhouse.org/) all advocate for similar solutions:
+
+1. Ranked-Choice Voting
+2. Open Primaries
+3. Independent Redistricting Commissions
+
+These all strike me as good ideas, and given that they can be adopted by individual states without requiring a change in federal law, one can hope that they will gradually be enacted in more and more states. Alaska is leading the way since [Ballot Measure 2](https://www.adn.com/politics/2020/11/17/alaska-becomes-second-state-to-approve-ranked-choice-voting-as-ballot-measure-2-passes-by-1/) implemented a top-four open primary with ranked-choice general election in November 2020. It is too early to tell how it will work out, but I note that it has already led to interesting situations such as the [mutual endorsement](https://www.washingtonpost.com/politics/2022/10/24/murkowski-peltola-alaska/) of a Republican and Democrat for statewide office. Unite America has a [longer report](https://docsend.com/view/hmamd934tzjjtt22) for those who are interested.
+
+But I do not think reform is strictly necessary for a third party to thrive in the House. States such as Maine, Vermont, Alaska, or Utah all have strong identities centered on independence. Major issues such as housing, marijuana legalization, and corporate subsidies do not neatly align with the Democratic/Republican divide and could be used as a wedge. A strategically focused and adequately funded campaign targeting just 3-4 House seats could immediately position a third party with substantial legislative leverage. They would need great candidates, people like Dan Osborn in Nebraska or Evan McMullin in Utah, and a carefully crafted program focused on local politics and a few broadly popular national proposals.
+
+Longer term, a national third party could eventually influence presidential politics. Imagine a third party trading their endorsement for a cabinet appointment and support on some of their key issues? This is not science fiction: I'd argue this is exactly what happened between RFK Jr. and the Trump campaign. To me, this is a much more credible path to third party politics than a No Labels ticket.
+
+Perhaps the right place to start is state legislative races, where some progress is already being made. The United Utah Party (Utah), Vermont Progressive Party (Vermont), Working Families Party (New York), Alaska Independence Party (Alaska), and the Independence Party of Minnesota (Minnesota) all have the ability to win local races in their respective states. They could then build on electoral victories and legislative achievements to field competitive candidates for the House.
+
+For now, we are a long way from a credible third party emerging in the House. But I believe it is possible, and I will gladly support it if one emerges.

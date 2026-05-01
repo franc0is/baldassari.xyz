@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{ section.content | safe }}
+
+{% if config.extra.list_pages %}
+{% if paginator %}
+{% set pages = paginator.pages | sort(attribute="date") | reverse %}
+{% else %}
+{% set pages = section.pages | sort(attribute="date") | reverse | slice(start=0, end=10) %}
+{% endif %}
+{% for page in pages %}
+<a href="{{ page.permalink | safe }}">{% if page.date and not config.extra.no_list_date %}{{ page.date }} - {% endif %}{{ page.title }}</a>
+<br />
+<p>{{ page.content | truncate(length=300) | safe }}</p>
+<br />
+{% endfor %}
+{% endif %}
+{% endblock content %}
