@@ -171,13 +171,13 @@ scenario:
 > have to put money down. Things did not work out as planned, and now the
 > company is getting taken over by creditors.
 
-What happens next? Nothing good:
+What happens next? None of the scenarios are good:
 
 1. The board members you knew and trusted all resigned, and were replaced by
    people from the creditors. They want their money back! They'll go after you
    for the full value of the loan.
-2. The company forgives the loan... but in some cases that's can be a taxable
-   event! Now you owe the IRS some money when in fact you received nothing.
+2. The company forgives the loan... but in some cases it is a taxable event! Now
+   you owe the IRS some money when in fact you received nothing.
 
 Famously, some Bolt employees
 [found themselves in a tough spot](https://www.wired.com/story/bolt-stock-loans/)
