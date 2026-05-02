@@ -16,8 +16,8 @@ compensation plan, and calculated payouts in an acquisition.
 
 My conclusion: the current tools at our disposal to give employees equity
 exposure suck, and most employees do not understand the limits of them. In this
-post, I share the issue with a few different structures and explore potential
-alternatives.
+post, I share the issue with a few different structures and weigh the best
+options available.
 
 > _DISCLAIMER_ I am not a lawyer, and I certainly am not your lawyer. This post
 > simplifies many concepts, and offers a layman's understanding of a very
@@ -182,7 +182,7 @@ What happens next? None of the scenarios are good:
 Famously, some Bolt employees
 [found themselves in a tough spot](https://www.wired.com/story/bolt-stock-loans/)
 after the companies fortunes turned and they were laid off. This is why Fenwick
-says taking out such loans is to
+says taking out such loans is
 ["playing with fire"](https://www.fenwick.com/insights/publications/playing-with-fire-loans-to-exercise-options).
 Don't do it!
 
