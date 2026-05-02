@@ -96,13 +96,13 @@ as ordinary income. Companies rarely explain all these details to employees, so
 they rarely understand the mechanics behind the exercise window.
 
 For the company, NSOs are burdensome as well. When the NSO is exercised or
-liquidated, the company needs to report the ordinary income on form W-2. They
-also need to make all applicable withholdings. This is costly (payroll tax,
-social security tax, medicare tax, ...), error prone (how do you know what to
-withhold if you do not know what the employee has paid already?), and
-administratively difficult. Imagine needing to process payroll to ex-employees
-who have since moved to a country where the company does not have a legal
-presence!
+liquidated, the company needs to report the ordinary income on form W-2 no
+matter how long ago a person may have left the company. They also need to make
+all applicable withholdings. This is costly (payroll tax, social security tax,
+medicare tax, ...), error prone (how do you know what to withhold if you do not
+know what the employee has paid already?), and administratively difficult.
+Imagine needing to process payroll for ex-employees who have since moved to a
+country where the company does not have a legal presence!
 
 When Memfault was acquired, paying out all NSOs turned out to be very
 complicated. I cannot imagine the problems a larger company encounters.
@@ -207,7 +207,7 @@ You can read more about A12 stock on
 
 Unfortunately, there are no good solutions to the issues above. The best
 companies and founders can do is be thoughtful about the trade-offs at hand, and
-carefully craft an option plan that reflects their goals and values.
+carefully craft an equity plan that reflects their goals and values.
 
 Too often, entrepreneurs just take a form equity plan provided by their law
 firm. These forms are typically employee unfriendly, it's the lawyer's job to
